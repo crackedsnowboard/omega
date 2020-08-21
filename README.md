@@ -9,4 +9,4 @@ I used React and Bootstrap framework for CSS to handle the front-end design and 
 
 
 #### Image of deployed web applicaton
-<img src="./portfolio/public/appPic.png">
+<img src="./my-app/public/appPic.png">
